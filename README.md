@@ -1,1 +1,1 @@
-rockpapersessior game
+rockpaperscissor game
